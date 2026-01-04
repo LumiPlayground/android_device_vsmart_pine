@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_casuarina.mk
+    $(LOCAL_DIR)/lineage_pine.mk

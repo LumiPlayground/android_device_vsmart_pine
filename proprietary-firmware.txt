@@ -1,5 +1,5 @@
 ## All proprietary firmware from this list, unless pinned and noted otherwise,
-## are from casuarina_open (V430A_OPN_U_B15_211112).
+## are from pine (V420A_OPN_U_B14_210622).
 
 adspso.bin:dsp.bin
 cmnlib_30.mbn:cmnlib.mbn
